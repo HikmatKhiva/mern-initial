@@ -1,6 +1,6 @@
 {
     "port":5000,
     "jwtSecret":"hikmat crypto mern",
-    "mongoUrl":"mongodb+srv://hikmat:qwerty2001@cluster0.df44z.mongodb.net/?retryWrites=true&w=majority",
+    "mongoUrl":"",
     "baseUrl":"http://localhost:5000"
 }
